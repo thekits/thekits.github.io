@@ -2154,6 +2154,8 @@
 
 .carousel {
   background: #EEE;
+	height: 100%;
+	width: 100%;
 }
 
 .carousel img {
